@@ -1,0 +1,12 @@
+{
+    "Data Scientist": {
+        "description": "Work on data analysis, machine learning models, and big data processing.",
+        "next_steps": ["Senior Data Scientist", "Data Science Manager", "AI Researcher"],
+        "certifications": ["AWS Machine Learning", "TensorFlow Developer Certification"]
+    },
+    "Software Engineer": {
+        "description": "Develop software applications and systems using programming languages.",
+        "next_steps": ["Senior Software Engineer", "Technical Lead", "Solutions Architect"],
+        "certifications": ["Oracle Java Certification", "AWS Solutions Architect"]
+    }
+}
